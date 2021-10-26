@@ -1,0 +1,164 @@
+
+
+Started GET "/movies" for 72.191.66.121 at 2021-10-26 17:38:56 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.1ms)[0m  SELECT "movies".* FROM "movies"
+  Rendered movies/index.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 5329ms (Views: 5317.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/actors.css?body=1" for 72.191.66.121 at 2021-10-26 17:39:01 +0000
+
+
+Started GET "/assets/movies.css?body=1" for 72.191.66.121 at 2021-10-26 17:39:01 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 72.191.66.121 at 2021-10-26 17:39:01 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 72.191.66.121 at 2021-10-26 17:39:01 +0000
+
+
+Started GET "/assets/application.css?body=1" for 72.191.66.121 at 2021-10-26 17:39:01 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 72.191.66.121 at 2021-10-26 17:39:01 +0000
+
+
+Started GET "/assets/actors.js?body=1" for 72.191.66.121 at 2021-10-26 17:39:01 +0000
+
+
+Started GET "/assets/communication.js?body=1" for 72.191.66.121 at 2021-10-26 17:39:01 +0000
+
+
+Started GET "/assets/application.js?body=1" for 72.191.66.121 at 2021-10-26 17:39:01 +0000
+
+
+Started GET "/assets/movies.js?body=1" for 72.191.66.121 at 2021-10-26 17:39:01 +0000
+
+
+Started GET "/movies" for 72.191.66.121 at 2021-10-26 17:41:49 +0000
+Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies"[0m
+  Rendered movies/index.html.erb within layouts/application (1.9ms)
+Completed 200 OK in 25ms (Views: 24.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/actors.css?body=1" for 72.191.66.121 at 2021-10-26 17:41:50 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 72.191.66.121 at 2021-10-26 17:41:50 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 72.191.66.121 at 2021-10-26 17:41:50 +0000
+
+
+Started GET "/assets/communication.js?body=1" for 72.191.66.121 at 2021-10-26 17:41:50 +0000
+
+
+Started GET "/assets/movies.css?body=1" for 72.191.66.121 at 2021-10-26 17:41:50 +0000
+
+
+Started GET "/assets/application.css?body=1" for 72.191.66.121 at 2021-10-26 17:41:50 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 72.191.66.121 at 2021-10-26 17:41:50 +0000
+
+
+Started GET "/assets/application.js?body=1" for 72.191.66.121 at 2021-10-26 17:41:50 +0000
+
+
+Started GET "/assets/actors.js?body=1" for 72.191.66.121 at 2021-10-26 17:41:50 +0000
+
+
+Started GET "/assets/movies.js?body=1" for 72.191.66.121 at 2021-10-26 17:41:50 +0000
+
+
+Started GET "/movies" for 72.191.66.121 at 2021-10-26 17:47:20 +0000
+Processing by MoviesController#index as HTML
+  [1m[35mMovie Load (0.2ms)[0m  SELECT "movies".* FROM "movies"
+  Rendered movies/index.html.erb within layouts/application (2.1ms)
+Completed 200 OK in 30ms (Views: 29.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/actors.css?body=1" for 72.191.66.121 at 2021-10-26 17:47:21 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 72.191.66.121 at 2021-10-26 17:47:21 +0000
+
+
+Started GET "/assets/movies.css?body=1" for 72.191.66.121 at 2021-10-26 17:47:21 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 72.191.66.121 at 2021-10-26 17:47:21 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 72.191.66.121 at 2021-10-26 17:47:21 +0000
+
+
+Started GET "/assets/actors.js?body=1" for 72.191.66.121 at 2021-10-26 17:47:21 +0000
+
+
+Started GET "/assets/movies.js?body=1" for 72.191.66.121 at 2021-10-26 17:47:21 +0000
+
+
+Started GET "/assets/application.css?body=1" for 72.191.66.121 at 2021-10-26 17:47:21 +0000
+
+
+Started GET "/assets/application.js?body=1" for 72.191.66.121 at 2021-10-26 17:47:21 +0000
+
+
+Started GET "/assets/communication.js?body=1" for 72.191.66.121 at 2021-10-26 17:47:21 +0000
+
+
+Started GET "/assets/rails.png" for 72.191.66.121 at 2021-10-26 17:47:30 +0000
+
+
+Started GET "/assets/rails.png" for 72.191.66.121 at 2021-10-26 17:47:35 +0000
+
+
+Started GET "/assets/rails.png" for 72.191.66.121 at 2021-10-26 17:47:37 +0000
+
+
+Started GET "/assets/rails.png" for 72.191.66.121 at 2021-10-26 17:48:19 +0000
+
+
+Started GET "/assets/rails.png" for 72.191.66.121 at 2021-10-26 17:48:47 +0000
+
+
+Started GET "/movies" for 72.191.66.121 at 2021-10-26 17:48:57 +0000
+Processing by MoviesController#index as HTML
+  [1m[36mMovie Load (0.2ms)[0m  [1mSELECT "movies".* FROM "movies"[0m
+  Rendered movies/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 24ms (Views: 23.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/actors.css?body=1" for 72.191.66.121 at 2021-10-26 17:48:57 +0000
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 72.191.66.121 at 2021-10-26 17:48:57 +0000
+
+
+Started GET "/assets/jquery.js?body=1" for 72.191.66.121 at 2021-10-26 17:48:57 +0000
+
+
+Started GET "/assets/actors.js?body=1" for 72.191.66.121 at 2021-10-26 17:48:57 +0000
+
+
+Started GET "/assets/movies.css?body=1" for 72.191.66.121 at 2021-10-26 17:48:57 +0000
+
+
+Started GET "/assets/application.css?body=1" for 72.191.66.121 at 2021-10-26 17:48:57 +0000
+
+
+Started GET "/assets/turbolinks.js?body=1" for 72.191.66.121 at 2021-10-26 17:48:57 +0000
+
+
+Started GET "/assets/application.js?body=1" for 72.191.66.121 at 2021-10-26 17:48:57 +0000
+
+
+Started GET "/assets/movies.js?body=1" for 72.191.66.121 at 2021-10-26 17:48:57 +0000
+
+
+Started GET "/assets/communication.js?body=1" for 72.191.66.121 at 2021-10-26 17:48:57 +0000
